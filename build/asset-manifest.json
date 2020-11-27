@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/faboosh.github.io/static/js/main.51947fc2.chunk.js",
+    "main.js.map": "/faboosh.github.io/static/js/main.51947fc2.chunk.js.map",
+    "runtime-main.js": "/faboosh.github.io/static/js/runtime-main.a03d9cb0.js",
+    "runtime-main.js.map": "/faboosh.github.io/static/js/runtime-main.a03d9cb0.js.map",
+    "static/js/2.abebc4e6.chunk.js": "/faboosh.github.io/static/js/2.abebc4e6.chunk.js",
+    "static/js/2.abebc4e6.chunk.js.map": "/faboosh.github.io/static/js/2.abebc4e6.chunk.js.map",
+    "static/js/3.44dc4aeb.chunk.js": "/faboosh.github.io/static/js/3.44dc4aeb.chunk.js",
+    "static/js/3.44dc4aeb.chunk.js.map": "/faboosh.github.io/static/js/3.44dc4aeb.chunk.js.map",
+    "index.html": "/faboosh.github.io/index.html",
+    "static/js/2.abebc4e6.chunk.js.LICENSE.txt": "/faboosh.github.io/static/js/2.abebc4e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a03d9cb0.js",
+    "static/js/2.abebc4e6.chunk.js",
+    "static/js/main.51947fc2.chunk.js"
+  ]
+}
